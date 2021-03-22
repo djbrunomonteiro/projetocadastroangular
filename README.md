@@ -1,4 +1,4 @@
-# projetocadastroangular
+# Projeto Cadastro de Produtos em Angular
 
 Projeto desenvolvido no curso de Angular Essencial da cod3r cursos.
 
