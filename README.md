@@ -2,7 +2,7 @@
 
 Projeto desenvolvido no curso de Angular Essencial da cod3r cursos.
 
-Aprendir sobre os conceitos da framework, atraves de um CRUD de uma aplicação de cadastro de produtos.
+Aprendir sobre os conceitos do framework, através do CRUD de uma aplicação de cadastro de produtos.
 
 No backend criamos uma API simples com JSON server. Integramos ao nosso frontend Angular com Material.
 
